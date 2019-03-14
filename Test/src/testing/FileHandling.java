@@ -4,6 +4,8 @@ import java.io.*;
 import java.util.Scanner;
 
 public class FileHandling {
+	
+
 	//String s;
 /*	public void readFileCharacterWise() throws IOException {
 		File f = new File("C:\\Users\\shekhar.sachdeva\\Desktop\\halo.txt");
@@ -110,7 +112,7 @@ public class FileHandling {
 	
 	
 	public static void main(String[] args) throws IOException {
-	//System.out.println("PLease enter first line");
+	System.out.println("PLease enter first line");
 		
 	for(int i = 1; i<=5;i++) {
 	
